@@ -57,3 +57,7 @@ h1{
 .sign-up-box a{
     text-decoration: none;
 }
+.error-message{
+    color:red;
+    margin:0px 0px 5px 10px;
+}
