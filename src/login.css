@@ -1,0 +1,59 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+
+}
+
+.form-container{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 700px;
+    background-color: lightblue;
+}
+
+.grid-form-layout{
+    background-color: aliceblue;
+    width:300px;
+    height: 374px;
+    margin:10px;
+    border:1px solid white;
+    border-radius: 25px;
+    
+}
+.form-input input{
+    width: 271px;
+    height: 29px;
+    margin: 10px;
+    border-radius:5px;
+   
+
+}
+.form-input label{
+    margin:10px;
+    
+}
+.form-input button{
+    width: 279px;
+    height: 41px;
+    margin: 10px;
+    background-color: darkcyan;
+    color: #fff;
+    border-radius:5px;
+
+}
+.form-input-checkbox{margin:10px}
+
+.form-input button:hover{
+    background-color:cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+.sign-up-box p{
+    margin:10px;
+}
+.sign-up-box a{
+    text-decoration: none;
+}
